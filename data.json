@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Jonsey",
+        "species":"cat",
+        "favFood":["tuna", "coffee"]
+    },
+    {
+        "name":"Colonel Meow",
+        "species":"soldier cat",
+        "favFood":["salt", "protein bars"]
+    },
+    {
+        "name":"Catastroph",
+        "species":"alien cat",
+        "favFood":["star dust", "pink cheese"]
+    }
+]

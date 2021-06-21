@@ -29,4 +29,4 @@ var thePets = [
 // thePets[1].favFood
 
 var req = new XMLHttpRequest();
-req.open('GET', );
+req.open('GET', "https://github.com/RosuBobu/pr0nPr0t0type/blob/master/data.json" );
